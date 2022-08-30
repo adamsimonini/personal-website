@@ -13,7 +13,7 @@
     "chart.js": "^2.9.4",
     "jquery": "^3.5.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "react": "^16.7.0",
     "react-bootstrap-slider": "^2.1.5",
     "react-chartjs-2": "^2.7.4",
